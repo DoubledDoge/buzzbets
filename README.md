@@ -5,7 +5,7 @@
 [![CI/CD](https://github.com/DoubledDoge/buzzbets/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/DoubledDoge/buzzbets/actions/workflows/ci-cd.yml)
 [![CodeQL](https://github.com/DoubledDoge/buzzbets/actions/workflows/codeql.yml/badge.svg)](https://github.com/DoubledDoge/buzzbets/actions/workflows/codeql.yml)
 [![.NET](https://img.shields.io/badge/.NET-10.0-512BD4)](https://dotnet.microsoft.com)
-![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/doubleddoge/buzzbets/latest/total)
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/DoubledDoge/buzzbets/latest/total)
 
 
 A terminal-based drone racing and betting simulator built in C# using the ConsolePrism and TypeGuard framework.
