@@ -1,0 +1,100 @@
+﻿{
+	"drones": [
+		{
+			"name": "Voltage Vanguard",
+			"speed": 9,
+			"acceleration": 6,
+			"reliability": 5,
+			"agility": 7,
+			"archetype": "Glass cannon (blazing fast, but unreliable)"
+		},
+		{
+			"name": "Iron Swarm",
+			"speed": 6,
+			"acceleration": 7,
+			"reliability": 9,
+			"agility": 5,
+			"archetype": "Workhorse (boring, but consistent)"
+		},
+		{
+			"name": "Crimson Talon",
+			"speed": 8,
+			"acceleration": 8,
+			"reliability": 4,
+			"agility": 6,
+			"archetype": "High-risk high-reward (great stats, yet fragile)"
+		},
+		{
+			"name": "Nova Sting",
+			"speed": 5,
+			"acceleration": 9,
+			"reliability": 7,
+			"agility": 8,
+			"archetype": "Rocket starter (surges early, fades late)"
+		},
+		{
+			"name": "Dustwalker",
+			"speed": 7,
+			"acceleration": 5,
+			"reliability": 8,
+			"agility": 6,
+			"archetype": "Steady mid-fielder (rarely crashes, rarely wins)"
+		},
+		{
+			"name": "Blitz Hollow",
+			"speed": 10,
+			"acceleration": 4,
+			"reliability": 3,
+			"agility": 5,
+			"archetype": "Pure speed demon (fastest drone, most fragile)"
+		},
+		{
+			"name": "WirrWind Warrior",
+			"speed": 6,
+			"acceleration": 6,
+			"reliability": 6,
+			"agility": 9,
+			"archetype": "Agility specialist (excels in tight conditions)"
+		},
+		{
+			"name": "Airborne Alibi",
+			"speed": 7,
+			"acceleration": 8,
+			"reliability": 6,
+			"agility": 7,
+			"archetype": "All-rounder (no weaknesses, no standout)"
+		},
+		{
+			"name": "Null Seeker",
+			"speed": 4,
+			"acceleration": 10,
+			"reliability": 7,
+			"agility": 8,
+			"archetype": "Acceleration freak (slow top speed, insane launch)"
+		},
+		{
+			"name": "Steelvane",
+			"speed": 8,
+			"acceleration": 5,
+			"reliability": 9,
+			"agility": 4,
+			"archetype": "Late charger (slow burner, very reliable)"
+		},
+		{
+			"name": "Grim Circuit",
+			"speed": 5,
+			"acceleration": 7,
+			"reliability": 5,
+			"agility": 10,
+			"archetype": "Wildcard (incredible agility, average everything else)"
+		},
+		{
+			"name": "Throttle Thunder",
+			"speed": 9,
+			"acceleration": 9,
+			"reliability": 3,
+			"agility": 3,
+			"archetype": "Chaotic speedster (elite speed and acceleration, crashes constantly)"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+<Solution Version="1.0.0" Description="A console betting application.">
+	<Configurations>
+		<Platform Name="Any CPU" />
+		<Platform Name="x64" />
+		<Platform Name="x86" />
+	</Configurations>
+
+	<Folder Name="/BuzzBets/">
+		<File Path=".gitignore" />
+		<File Path=".gitattributes" />
+		<File Path=".editorconfig" />
+		<File Path="dotnet-tools.json" />
+		<File Path="global.json" />
+		<File Path="LICENSE" />
+		<File Path="README.md" />
+	</Folder>
+
+	<Folder Name="/.github/">
+		<File Path=".github/cliff.toml" />
+		<File Path=".github/dependabot.yml" />
+		<File Path=".github/PULL_REQUEST_TEMPLATE.md" />
+		<File Path=".github/ISSUE_TEMPLATE/bug_report.yml" />
+	</Folder>
+
+	<Folder Name="/.github/workflows/">
+		<File Path=".github/workflows/ci-cd.yml" />
+		<File Path=".github/workflows/deploy.yml" />
+		<File Path=".github/workflows/codeql.yml" />
+	</Folder>
+
+	<Folder Name="/src/">
+		<Project Path="src/BuzzBets.csproj" />
+	</Folder>
+</Solution>
