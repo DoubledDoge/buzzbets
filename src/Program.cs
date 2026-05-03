@@ -24,7 +24,7 @@ internal static class Program
 		AppTheme.Initialize();
 
 		ConsoleHelper.SetEncoding(Encoding.UTF8);
-		string path = Path.Combine(AppContext.BaseDirectory, "Data", "drones.json");
+		string path = Path.Join(AppContext.BaseDirectory, "Data", "drones.json");
 		List<Drone> drones = DroneRoster.LoadFromJson(path);
 		Dictionary<Drone, decimal> payoutRate = ReturnsCalculator.Calculate(drones);
 		BettingService bettingService = new();
